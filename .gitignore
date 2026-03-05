@@ -1,0 +1,5 @@
+secret.txt
+logs/
+*.log
+temp*
+tmp_data.txt
